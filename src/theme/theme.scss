@@ -1,0 +1,15 @@
+/* theme*/
+$themes: (
+  // light theme
+  light:
+    (
+      color: #333,
+      bg-color: #eaedf7,
+    ),
+  //dark theme
+  dark:
+    (
+      color: #fff,
+      bg-color: #1d2742,
+    )
+);
